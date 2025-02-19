@@ -1,4 +1,6 @@
-# Mapty
+# [Mapty 🧭](https://mapty-mihailomarkovic.netlify.app/)
+
+![Picture of Mapty website on a laptop.](readme-img.png)
 
 ## Introduction
 
